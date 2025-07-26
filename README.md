@@ -66,9 +66,7 @@ BBackupp v2.0 is now fully open-source. You can build your own version with the 
 
 To build this project, you will need:
 - Ensure you have checked out the git submodules.
-- Confirm that `xcbeautify` is installed.
-    > You can verify dependencies by running `brew bundle install`
-    >
+- Confirm that [`brew`](https://brew.sh) is installed.
     > For anything else related to compile, fix them yourself. Likely, it’s your fault :P
 
 **I am unable to provide ongoing maintenance for this code due to time constraints. Therefore I made the decision to open-source it.**
